@@ -1,3 +1,7 @@
+layout: page
+title: "Privacy Policy"
+permalink: /privacy-policy
+
 Privacy Policy for TextbookAI
 
 Last updated: February 12, 2026
