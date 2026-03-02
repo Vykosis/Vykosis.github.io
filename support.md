@@ -10,7 +10,7 @@ Upload PDFs. Chat with your textbooks. Study smarter.
 
 Have a question, issue, or suggestion? We'd love to hear from you.
 
-**Email:** [danielalblas02@gmail.com](mailto:danielalblas02@gmail.com)
+**Email:** [support@textbookai.app](mailto:support@textbookai.app)
 
 We typically respond within 24–48 hours.
 
@@ -60,7 +60,7 @@ TextbookAI generates responses based on the content of your uploaded PDF. Try re
 
 Your privacy matters to us. We only use your uploaded documents to provide AI-powered responses within the app.
 
-[Privacy Policy](https://vykosis.github.io/privacy-policy)
+[Privacy Policy](https://textbookai.app/privacy-policy)
 
 ---
 
