@@ -1,8 +1,12 @@
-layout: page title: "Terms and Conditions" permalink: /terms-conditions
+---
+layout: page 
+title: "Terms and Conditions" 
+permalink: /terms-conditions
+---
 
 # Terms of Use
 
-**Last Updated: February 13, 2026**
+**Last Updated: March 2, 2026**
 
 These Terms of Use ("Terms") govern your use of the TextbookAI mobile application ("App") operated by Daniel Blas ("we," "us," or "our"). By downloading, installing, or using the App, you agree to be bound by these Terms. If you do not agree, do not use the App.
 
@@ -112,7 +116,7 @@ These Terms shall be governed by and construed in accordance with the laws of th
 
 If you have any questions about these Terms, please contact us at:
 
-**Email:** [YOUR_SUPPORT_EMAIL]
+**Email:** [support@textbookai.app]
 
 ## 17. Apple-Specific Terms
 
