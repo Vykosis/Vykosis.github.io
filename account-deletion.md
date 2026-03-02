@@ -1,6 +1,8 @@
+---
 layout: page
 title: "Account Deletion"
 permalink: /account-deletion
+---
 
 TextbookAI — Account & Data Deletion
 
@@ -12,7 +14,7 @@ Open TextbookAI
 Tap the Settings icon in the top right of your Library
 Scroll down and tap "Delete Account"
 Confirm deletion
-If you are unable to access the app, email [your email] with the subject "Account Deletion Request" and the email address associated with your account. We will process your request within 7 days.
+If you are unable to access the app, email [support@textbookai.app] with the subject "Account Deletion Request" and the email address associated with your account. We will process your request within 7 days.
 
 Data That Is Deleted
 
