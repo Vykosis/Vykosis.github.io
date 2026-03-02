@@ -116,7 +116,7 @@ These Terms shall be governed by and construed in accordance with the laws of th
 
 If you have any questions about these Terms, please contact us at:
 
-**Email:** [support@textbookai.app]
+**Email:** [support@textbookai.app](mailto:support@textbookai.app)
 
 ## 17. Apple-Specific Terms
 
