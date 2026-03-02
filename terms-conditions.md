@@ -8,7 +8,7 @@ permalink: /terms-conditions
 
 **Last Updated: March 2, 2026**
 
-These Terms of Use ("Terms") govern your use of the TextbookAI mobile application ("App") operated by Daniel Blas ("we," "us," or "our"). By downloading, installing, or using the App, you agree to be bound by these Terms. If you do not agree, do not use the App.
+These Terms of Use ("Terms") govern your use of the TextbookAI mobile application ("App") operated by Daniel Alblas ("we," "us," or "our"). By downloading, installing, or using the App, you agree to be bound by these Terms. If you do not agree, do not use the App.
 
 ## 1. Description of Service
 
