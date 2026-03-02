@@ -1,6 +1,8 @@
+---
 layout: page
 title: "Privacy Policy"
 permalink: /privacy-policy
+---
 
 Privacy Policy for TextbookAI
 
@@ -38,4 +40,4 @@ Children's Privacy
 TextbookAI is not intended for children under 13. We do not knowingly collect data from children under 13.
 
 Contact
-If you have questions about this privacy policy, contact us at: danielalblas02@gmail.com
+If you have questions about this privacy policy, contact us at: support@textbookai.app
