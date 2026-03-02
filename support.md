@@ -1,4 +1,8 @@
-layout: page title: "Support" permalink: /support
+---
+layout: page 
+title: "Support" 
+permalink: /support
+---
 
 # TextbookAI Support
 
